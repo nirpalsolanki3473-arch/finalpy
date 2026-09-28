@@ -232,6 +232,7 @@ This project demonstrates practical use of:
 - Menu-driven programming
 
 ## Author
+Nirpalsinh Solanki
 
 **Bookstore Management & Sales Analysis Project**
 
