@@ -234,5 +234,3 @@ This project demonstrates practical use of:
 ## Author
 Nirpalsinh Solanki
 
-**Bookstore Management & Sales Analysis Project**
-
