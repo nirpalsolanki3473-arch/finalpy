@@ -231,6 +231,8 @@ This project demonstrates practical use of:
 - Input validation
 - Menu-driven programming
 
-## Author
-Nirpalsinh Solanki
+## 👨‍💻 Author
 
+**NIRPALSINH SOLANKI**
+
+[GitHub Profile](https://github.com/nirpalsolanki3473-arch)
